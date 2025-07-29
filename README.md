@@ -33,7 +33,20 @@ fun main(){
 // for(ch in name){
 //     println(ch)
 // }
-//-----------------------7 Take a list of names and print each one with a message like “Hello, [Name]!”
+//-----------------------7 even Odd”
+fun main(){
+var count = 0
+    for(i in 1..50){
+        if(i % 2 == 0){
+            count ++
+            println(i)
+        }
+        
+    
+    
+}
+println("total even numbers are $count")
+}
 // var names = listOf("fatima", "ali","rahma")
 // names.forEach{
 //     name->
