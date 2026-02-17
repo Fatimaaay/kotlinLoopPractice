@@ -1,5 +1,5 @@
 # kotlinLoopPractice
-My daily Kotlin loop practice as I become an Android developer
+
 fun main(){
 //-----1--------Print numbers from 1 to 10 using a for loop.
     // for(i in 1..10){
